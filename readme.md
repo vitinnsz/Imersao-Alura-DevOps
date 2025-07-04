@@ -139,4 +139,4 @@ Este projeto foi estruturado pensando em um fluxo de trabalho DevOps moderno.
 -   **Entrega Contínua (CD):** Após a etapa de CI, a esteira de CD pode ser acionada para implantar a nova versão da imagem Docker em ambientes de homologação ou produção. Para o ecossistema Google Cloud, um excelente candidato para o deploy é o **Google Cloud Run**, um serviço serverless que executa contêineres de forma escalável e gerenciada.
 
 ---
-_Projeto desenvolvido durante a Imersão DevOps Alura & Google Cloud._
+_Projeto desenvolvido durante a Imersão DevOps Alura & Google Cloud - https://www.victordeveloper.com_
